@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2cc688a-a6c1-473d-9244-621aa0320907" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex4.py" afterDir="false" />
-    </list>
+    <list default="true" id="a2cc688a-a6c1-473d-9244-621aa0320907" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
